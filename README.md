@@ -1,5 +1,9 @@
 # PolicyAI — Agentic AI Economic Policy Simulator
 
+
+https://github.com/user-attachments/assets/1fe28409-977b-423a-b793-832889ef3967
+
+
 A bilingual English/Arabic decision-support platform for exploring model-based economic policy scenarios. It combines World Bank historical data, time-aware forecasting, XGBoost/Ridge scenario modelling, LangGraph orchestration, regional comparison, sector sensitivity analysis, interactive Plotly charts, PostgreSQL persistence, and PDF reports.
 
 ## Completed feature set
