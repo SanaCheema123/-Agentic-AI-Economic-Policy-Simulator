@@ -1,0 +1,45 @@
+🚀 Excited to share my latest project: PolicyAI — an AI-Powered Economic Policy Intelligence Platform
+
+I recently developed PolicyAI, a full-stack platform designed to transform economic data into interactive policy simulations, forecasts, comparisons, and actionable intelligence.
+
+Instead of building a static dashboard, the goal was to create a real, backend-integrated decision-support system where visualizations and analytical results are driven by actual API responses rather than dummy data.
+
+🔹 What PolicyAI includes
+
+🌍 Economic Data Explorer — Explore historical country-level economic indicators using World Bank data.
+
+📊 Policy Simulation — Configure economic scenarios by adjusting variables such as investment, FDI, exports, imports, government consumption, and household consumption.
+
+📈 Forecasting & Visualization — Generate multi-year projections using forecasting models and visualize baseline vs. scenario trajectories.
+
+⚖️ Scenario Comparison — Compare persisted simulation runs through interactive cards and projection graphs.
+
+🧠 Economic Intelligence — Analyze regional and sector-level economic information through interactive visualizations.
+
+🤖 AI Policy Assistant — Natural-language interaction powered through a local Ollama/LLM integration.
+
+📄 Policy Reports — Generate reports from actual saved scenario results.
+
+🌗 Complete Dark & Light Experience — A responsive futuristic interface with consistent theme adaptation across the entire application.
+
+🛠️ Technology Stack
+
+Frontend: React, Vite, JavaScript, CSS
+Backend: FastAPI, Python, SQLAlchemy
+Data: World Bank API
+ML: Autoregressive forecasting & XGBoost
+AI: Ollama + Qwen
+Database: SQLite / PostgreSQL support
+API Architecture: REST-based frontend/backend integration
+
+One principle I maintained throughout development was:
+
+If the backend does not provide the data, the frontend does not invent it.
+
+Missing information is handled through proper loading, empty, and error states rather than fabricated numbers.
+
+PolicyAI demonstrates how AI, machine learning, economic data, interactive visualization, and modern full-stack development can come together in a single decision-support platform.
+
+Looking forward to continuing to improve its forecasting, intelligence, and policy-analysis capabilities.
+
+#PolicyAI #ArtificialIntelligence #MachineLearning #FastAPI #ReactJS #DataScience #EconomicForecasting #GenerativeAI #XGBoost #WorldBank #FullStackDevelopment #DataVisualization #AIEngineering #DecisionSupportSystem
